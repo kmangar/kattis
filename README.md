@@ -1,2 +1,2 @@
 # kattis
-my code for kattis
+my codes for kattis
